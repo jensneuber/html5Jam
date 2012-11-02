@@ -1,3 +1,3 @@
-require(['jquery'], function ($) {
-	console.log($(document));
+require(['jquery', 'less'], function ($, less) {
+	console.log(less);
 });
