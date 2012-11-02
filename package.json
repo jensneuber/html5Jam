@@ -1,0 +1,10 @@
+{
+ "name": "html5Jam",
+  "version": "0.0.1",
+  "description": "html5Jam DemoProject",
+  "dependencies": {},
+  "jam": {
+    "packageDir": "./jam",
+    "baseUrl": "./js"
+  }
+}
